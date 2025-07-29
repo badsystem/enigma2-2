@@ -12143,7 +12143,7 @@ msgid "TEXT"
 msgstr "ТЕКСТ"
 
 msgid "TRANSLATOR_INFO"
-msgstr "Переклад:  kvinto - 23.07.25"
+msgstr "Переклад:  kvinto - 29.07.25"
 
 msgid "TS file is too large for ISO9660 level 1!"
 msgstr "TS файл занадто великий для ISO9660 рівень 1!"
